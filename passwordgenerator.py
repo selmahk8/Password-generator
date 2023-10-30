@@ -1,4 +1,4 @@
-#generate password wich is tough to break
+#generate password which is tough to break
 
 import random
 
