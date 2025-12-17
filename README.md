@@ -9,8 +9,13 @@
 
 #How it works ?
 
+<br>
+YOU CAN NOW DOWNLOAD THE FILE "app en exe", WITH THE APP READY ON WINDOWS
+<br>
+
 <h3>1-Download the python file in your Desktop</h3>
 <h3>2-Open cmd</h3>
 <h3>3-Use the command: cd Desktop</h3>
 <h3>4-Then type this command: python passwordgenerator.py</h3>
 <h3>5-Enjoy your generated password 😊</h3>
+
